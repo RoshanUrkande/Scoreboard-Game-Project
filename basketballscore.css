@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    background-color:slateblue;
+}
+.container{
+    display:flex;
+
+    justify-content: space-around
+}
+h1{
+    color:white;
+
+    font-weight:bold;
+}
+button{
+    background-color:slateblue;
+    color:white;
+    padding:10px;
+    border-radius:50%;
+}
+.number-box {
+    width: 100%;
+    height: 50%;
+    border: 2px solid black;
+    background-color: black;
+    color:red;
+    text-align: center;
+    font-size: 140px;
+  }
+  
